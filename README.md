@@ -1,6 +1,6 @@
 # Next.js 13 - Todo List📝
 
-# Project Description
+## Project Description
 
 This is a simple todo list application to explore the addition of server components and server actions into [Next.js 13.4](https://nextjs.org/blog/next-13-4)
 
