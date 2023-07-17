@@ -9,6 +9,12 @@ This is a simple todo list application to explore the addition of server compone
 - Server components
 - Server actions
 
+## This apps tech stack
+
+- Next.js 13
+- Prisma
+- TypeScript
+
 ___________________________
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
